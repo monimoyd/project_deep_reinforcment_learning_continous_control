@@ -1,0 +1,2 @@
+# project_deep_reinforcment_learning_continous_control
+Udacity Continous Control project on Deep Reinforcement Learning
